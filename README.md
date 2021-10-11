@@ -1,2 +1,2 @@
 # raivel.github.io
-Wevsite
+Website
